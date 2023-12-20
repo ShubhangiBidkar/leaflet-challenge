@@ -27,6 +27,10 @@ Hint: The depth of the earth can be found as the third coordinate for each earth
 
 - Create a legend that will provide context for your map data.
 
+![image](https://github.com/ShubhangiBidkar/leaflet-challenge/assets/38162670/63e7595c-5705-488b-b6c3-0ccfaac9fcf4)
+
+
+
 Part 2: Gather and Plot More Data (Optional)
 
 Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplatesLinks to an external site..
@@ -40,3 +44,6 @@ Perform the following tasks:
 - Put each dataset into separate overlays that can be turned on and off independently.
 
 - Add layer controls to your map.
+
+![image](https://github.com/ShubhangiBidkar/leaflet-challenge/assets/38162670/31db2270-fe57-432b-916b-7316eabcdfe5)
+
